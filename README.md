@@ -1,15 +1,23 @@
-# Meu Portfólio Simples - Gabriela Rodrigues de Souza
+<div align="center">
+  <h1> 🎓 Portfólio Simples - Gabriela Rodrigues de Souza 🎓</h1>
+</div>
 
-## 📎 Link do Portfólio
+<div align="center">
+  <h2>📎 Link do Portfólio</h2>
+  
   Acesse [Portfólio_Gabriela Rodrigues](https://agbl09.github.io/Portfolio/)
+</div>
 
-## 👩‍🎓 Apresentação
-  Olá! 👋 Sou a **Gabriela Rodrigues de Souza**, desenvolvedora em formação, apaixonada por tecnologia, criatividade e aprendizado contínuo.
+<div align="center">
+  <h2>👩‍🎓 Apresentação</h2>
+  Olá! 👋 Sou a <b>Gabriela Rodrigues de Souza</b>, desenvolvedora em formação, apaixonada por tecnologia, criatividade e aprendizado contínuo.
 
   Este repositório foi criado para apresentar meu portfólio pessoal, com projetos que demonstram minha evolução na área de desenvolvimento web. 💻✨
+</div>
 
-## 📜 Licença
-   Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
+<div align="center">
+  <h2>📜 Licença</h2>
+     Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
-
+</div>
