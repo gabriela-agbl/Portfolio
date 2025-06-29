@@ -1,11 +1,11 @@
 <div align="center">
-  <h1> 🎓 Portfólio Simples - Gabriela Rodrigues de Souza 🎓</h1>
+  <h1>🎓 Portfólio Simples - Gabriela Rodrigues de Souza 🎓</h1>
 </div>
 
 <div align="center">
   <h2>📎 Link do Portfólio</h2>
   
-  Acesse [Portfólio_Gabriela Rodrigues](https://gabriela-agbl.github.io/Portfolio/)
+  Acesse [aqui](https://gabriela-agbl.github.io/Portfolio/)
 </div>
 
 <div align="center">
